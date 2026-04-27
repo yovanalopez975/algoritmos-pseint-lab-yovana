@@ -17,4 +17,4 @@ Sección:Grupo #4
 
 ### Ciclos
 - Números pares e impares
-- Ciclo for 
+- Ciclo for
