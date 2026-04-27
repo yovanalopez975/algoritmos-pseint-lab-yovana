@@ -1,5 +1,8 @@
 # algoritmos-pseint-lab-yovana
 coleccion de algoritmos desarrollados en clases de ingenieria 
+##Información del estudiante 
+Nombre : Yovana Mercedes López Bárcenas 
+Sección: Grupo #4 
 
 ## Algoritmos desarrollados en PSeInt
 
