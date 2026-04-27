@@ -17,4 +17,4 @@ Sección:Grupo #4
 
 ### Ciclos
 - Números pares e impares
-- Ciclo for (triángulo de asteriscos)
+- Ciclo for 
